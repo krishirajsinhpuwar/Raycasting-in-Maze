@@ -2,6 +2,8 @@
 
 A 3D maze exploration game built using raycasting techniques in C++ with SDL2. This project demonstrates the classic raycasting algorithm similar to early first-person games like Wolfenstein 3D.
 
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/e2e2a339-95c2-4125-a7c7-c3224bc37e09" />
+
 ## Features
 
 - **Procedurally Generated Mazes**: Each maze is randomly generated for a unique experience
